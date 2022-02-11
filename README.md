@@ -74,27 +74,7 @@ Nature
 |---|---|---|
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
-| :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
-| :hamster: `:hamster:` | :rabbit: `:rabbit:` | :wolf: `:wolf:` |
-| :frog: `:frog:` | :tiger: `:tiger:` | :koala: `:koala:` |
-| :bear: `:bear:` | :pig: `:pig:` | :pig_nose: `:pig_nose:` |
-| :cow: `:cow:` | :boar: `:boar:` | :monkey_face: `:monkey_face:` |
-| :monkey: `:monkey:` | :horse: `:horse:` | :racehorse: `:racehorse:` |
-| :camel: `:camel:` | :sheep: `:sheep:` | :elephant: `:elephant:` |
-| :panda_face: `:panda_face:` | :snake: `:snake:` | :bird: `:bird:` |
-| :baby_chick: `:baby_chick:` | :hatched_chick: `:hatched_chick:` | :hatching_chick: `:hatching_chick:` |
-| :chicken: `:chicken:` | :penguin: `:penguin:` | :turtle: `:turtle:` |
-| :bug: `:bug:` | :honeybee: `:honeybee:` | :ant: `:ant:` |
-| :beetle: `:beetle:` | :snail: `:snail:` | :octopus: `:octopus:` |
-| :tropical_fish: `:tropical_fish:` | :fish: `:fish:` | :whale: `:whale:` |
-| :whale2: `:whale2:` | :dolphin: `:dolphin:` | :cow2: `:cow2:` |
-| :ram: `:ram:` | :rat: `:rat:` | :water_buffalo: `:water_buffalo:` |
-| :tiger2: `:tiger2:` | :rabbit2: `:rabbit2:` | :dragon: `:dragon:` |
-| :goat: `:goat:` | :rooster: `:rooster:` | :dog2: `:dog2:` |
-| :pig2: `:pig2:` | :mouse2: `:mouse2:` | :ox: `:ox:` |
-| :dragon_face: `:dragon_face:` | :blowfish: `:blowfish:` | :crocodile: `:crocodile:` |
-| :dromedary_camel: `:dromedary_camel:` | :leopard: `:leopard:` | :cat2: `:cat2:` |
-| :poodle: `:poodle:` | :paw_prints: `:paw_prints:` | :bouquet: `:bouquet:` |
+| :paw_prints: `:paw_prints:` | :bouquet: `:bouquet:` |
 | :cherry_blossom: `:cherry_blossom:` | :tulip: `:tulip:` | :four_leaf_clover: `:four_leaf_clover:` |
 | :rose: `:rose:` | :sunflower: `:sunflower:` | :hibiscus: `:hibiscus:` |
 | :maple_leaf: `:maple_leaf:` | :leaves: `:leaves:` | :fallen_leaf: `:fallen_leaf:` |
@@ -243,37 +223,8 @@ Places
 
 Symbols
 
-| :one: `:one:` | :two: `:two:` | :three: `:three:` |
+| - | 23 | - |
 |---|---|---|
-| :four: `:four:` | :five: `:five:` | :six: `:six:` |
-| :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
-| :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
-| :hash: `:hash:` | :symbols: `:symbols:` | :arrow_backward: `:arrow_backward:` |
-| :arrow_down: `:arrow_down:` | :arrow_forward: `:arrow_forward:` | :arrow_left: `:arrow_left:` |
-| :capital_abcd: `:capital_abcd:` | :abcd: `:abcd:` | :abc: `:abc:` |
-| :arrow_lower_left: `:arrow_lower_left:` | :arrow_lower_right: `:arrow_lower_right:` | :arrow_right: `:arrow_right:` |
-| :arrow_up: `:arrow_up:` | :arrow_upper_left: `:arrow_upper_left:` | :arrow_upper_right: `:arrow_upper_right:` |
-| :arrow_double_down: `:arrow_double_down:` | :arrow_double_up: `:arrow_double_up:` | :arrow_down_small: `:arrow_down_small:` |
-| :arrow_heading_down: `:arrow_heading_down:` | :arrow_heading_up: `:arrow_heading_up:` | :leftwards_arrow_with_hook: `:leftwards_arrow_with_hook:` |
-| :arrow_right_hook: `:arrow_right_hook:` | :left_right_arrow: `:left_right_arrow:` | :arrow_up_down: `:arrow_up_down:` |
-| :arrow_up_small: `:arrow_up_small:` | :arrows_clockwise: `:arrows_clockwise:` | :arrows_counterclockwise: `:arrows_counterclockwise:` |
-| :rewind: `:rewind:` | :fast_forward: `:fast_forward:` | :information_source: `:information_source:` |
-| :ok: `:ok:` | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` | :repeat: `:repeat:` |
-| :repeat_one: `:repeat_one:` | :new: `:new:` | :top: `:top:` |
-| :up: `:up:` | :cool: `:cool:` | :free: `:free:` |
-| :ng: `:ng:` | :cinema: `:cinema:` | :koko: `:koko:` |
-| :signal_strength: `:signal_strength:` | :u5272: `:u5272:` | :u5408: `:u5408:` |
-| :u55b6: `:u55b6:` | :u6307: `:u6307:` | :u6708: `:u6708:` |
-| :u6709: `:u6709:` | :u6e80: `:u6e80:` | :u7121: `:u7121:` |
-| :u7533: `:u7533:` | :u7a7a: `:u7a7a:` | :u7981: `:u7981:` |
-| :sa: `:sa:` | :restroom: `:restroom:` | :mens: `:mens:` |
-| :womens: `:womens:` | :baby_symbol: `:baby_symbol:` | :no_smoking: `:no_smoking:` |
-| :parking: `:parking:` | :wheelchair: `:wheelchair:` | :metro: `:metro:` |
-| :baggage_claim: `:baggage_claim:` | :accept: `:accept:` | :wc: `:wc:` |
-| :potable_water: `:potable_water:` | :put_litter_in_its_place: `:put_litter_in_its_place:` | :secret: `:secret:` |
-| :congratulations: `:congratulations:` | :m: `:m:` | :passport_control: `:passport_control:` |
-| :left_luggage: `:left_luggage:` | :customs: `:customs:` | :ideograph_advantage: `:ideograph_advantage:` |
-| :cl: `:cl:` | :sos: `:sos:` | :id: `:id:` |
 | :no_entry_sign: `:no_entry_sign:` | :underage: `:underage:` | :no_mobile_phones: `:no_mobile_phones:` |
 | :do_not_litter: `:do_not_litter:` | :non-potable_water: `:non-potable_water:` | :no_bicycles: `:no_bicycles:` |
 | :no_pedestrians: `:no_pedestrians:` | :children_crossing: `:children_crossing:` | :no_entry: `:no_entry:` |
